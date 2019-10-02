@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/leyouClient/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouServer/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouStock/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouStorage/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouTimeServer/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouZuul/pom.xml" />
+        <option value="$PROJECT_DIR$/leyouUser/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
